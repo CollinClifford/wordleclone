@@ -1,4 +1,4 @@
-#Wordle Clone
+# Wordle Clone
 
 Just a quick little tutorial I did following this [video](https://www.youtube.com/watch?v=mpby4HiElek) by Ania Kubow.
 packages:
